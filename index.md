@@ -11,5 +11,5 @@ permalink: /
 
 <hr/>
 
-[AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) is a fast growing area of research with dedicated communities for *applied mathematics*, *chemistry*, *physics*, *mechanical engineering*, etc.
+<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science" target="_blank">AI4Science</a> is a fast growing area of research with dedicated communities for *applied mathematics*, *chemistry*, *physics*, *mechanical engineering*, etc.
 

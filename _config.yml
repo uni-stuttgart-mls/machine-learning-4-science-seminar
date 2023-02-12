@@ -29,9 +29,9 @@ mermaid:
 # Aux links for the upper right navigation
 aux_links:
   "ss23":
-    - "https://uni-stuttgart-mls.github.io/teaching/seminar/dl4sci-ss23"
+    - "https://uni-stuttgart-mls.github.io/dl4sci-ss23"
   "ws22":
-    - "https://uni-stuttgart-mls.github.io/teaching/seminar/ml4sci-ws22-23"
+    - "https://uni-stuttgart-mls.github.io/ml4sci-ws22-23"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
