@@ -1,0 +1,40 @@
+# remote_theme: just-the-docs/just-the-docs
+
+theme: just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+incremental: true
+
+title: "ML for Science"
+
+domain: uni-stuttgart-mls.github.io 
+url: "https://uni-stuttgart-mls.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/machine-learning-for-science-seminar" # the subpath of your site, e.g. /blog
+
+
+kramdown:
+   # This makes sure we can put markdown inside html tags such as
+   # <details> and <summary>.  See: https://kramdown.gettalong.org/parser/kramdown.html
+   parse_block_html: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "ss23":
+    - "https://uni-stuttgart-mls.github.io/teaching/seminar/dl4sci-ss23"
+  "ws22":
+    - "https://uni-stuttgart-mls.github.io/teaching/seminar/ml4sci-ws22-23"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
