@@ -8,16 +8,16 @@ description: "Offerings of the seminar over years"
 
 # Current offering of the seminar
 
-| Semester | Seminar Title | Instructor |
+| Semester | Title of the Seminar | Instructor |
 |-----|------------|--------------------------|
-| SS-23 | Deep Learning in the Sciences | Prof. Dr. Mathias Niepert |
+| SS-23 | [Deep Learning for the Sciences](https://uni-stuttgart-mls.github.io/dl4sci-ss23) | [Prof. Dr. Mathias Niepert](http://matlog.net/) |
 
 
 
-# Past offerings of the seminar
+# Past offerings at the University of Stuttgart
 
-| Semester | Seminar Title                    | Instructor                |
-| -------- | -------------------------------- | ------------------------- |
-| WS-22/23 | Machine Learning in the Sciences | Prof. Dr. Mathias Niepert |
-| SS-22    | Machine Learning in the Sciences | Prof. Dr. Mathias Niepert |
+| Semester | Title of the Seminar                                         | Instructor                                      |
+| -------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| WS-22/23 | [Machine Learning in the Sciences](https://uni-stuttgart-mls.github.io/ml4sci-ws22-23) | [Prof. Dr. Mathias Niepert](http://matlog.net/) |
+| SS-22    | Machine Learning in the Sciences                             | Prof. Dr. Mathias Niepert                       |
 
